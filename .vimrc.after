@@ -1,0 +1,24 @@
+" arrow keys are evil
+map <up> :echoerr "Stop being stupid!"<CR>
+map <down> :echoerr "Stop being stupid!"<CR>
+map <left> :echoerr "Stop being stupid!"<CR>
+map <right> :echoerr "Stop being stupid!"<CR>
+imap <up> <ESC>:echoerr "Stop being stupid!"<CR>
+imap <down> <ESC>:echoerr "Stop being stupid!"<CR>
+imap <left> <ESC>:echoerr "Stop being stupid!"<CR>
+imap <right> <ESC>:echoerr "Stop being stupid!"<CR>
+vmap <up> <ESC>:echoerr "Stop being stupid!"<CR>
+vmap <down> <ESC>:echoerr "Stop being stupid!"<CR>
+vmap <left> <ESC>:echoerr "Stop being stupid!"<CR>
+vmap <right> <ESC>:echoerr "Stop being stupid!"<CR>
+
+" set 256 color mode
+set t_Co=256
+
+" disable the mouse
+set mouse-=a
+
+" set up colors
+set background=dark
+colorscheme solarized
+AirlineTheme solarized
