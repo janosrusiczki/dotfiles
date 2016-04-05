@@ -22,3 +22,6 @@ set mouse-=a
 set background=dark
 colorscheme solarized
 AirlineTheme solarized
+
+" set up relative line numbering
+set relativenumber
