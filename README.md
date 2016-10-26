@@ -11,3 +11,7 @@ this comes after [astrails/dotvim](https://github.com/astrails/dotvim)
 ## midnight commander
 
 * [fix mc colors](https://github.com/peel/mc)
+
+## misc
+
+* [git aware command prompt](https://github.com/jimeh/git-aware-prompt)
