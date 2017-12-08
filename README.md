@@ -14,4 +14,4 @@ this comes after [astrails/dotvim](https://github.com/astrails/dotvim)
 
 ## misc
 
-* [git aware command prompt](https://github.com/jimeh/git-aware-prompt)
+* [bash git prompt](https://github.com/magicmonty/bash-git-prompt)
